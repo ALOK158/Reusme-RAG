@@ -1,0 +1,44 @@
+# Core NLP and Embeddings
+transformers
+sentence-transformers
+torch
+numpy
+scikit-learn
+
+# Vector store (choose one or more depending on your needs)
+faiss-cpu        # Local and efficient
+chromadb         # Lightweight DB with API
+# Optional: pinecone-client, weaviate-client, milvus
+
+# Gemini + LangChain
+langchain-community
+langchain-core
+google-generativeai
+# Environment + deployment
+python-dotenv
+fastapi
+uvicorn
+# Web loader
+playwright
+pytest
+unstructured
+## More Important Libraries
+qU langchain_community pdfminer.six
+quiet langchain-google-genai
+upgrade langchain
+quiet langchain-google-genai
+faiss-cpu
+python-multipart
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-experimental
+google-generativeai
+faiss-cpu
+pdfminer.six
+python-dotenv
+pydantic
