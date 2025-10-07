@@ -1,0 +1,13 @@
+# Virtual Environment
+vnv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Output files
+*.json
+*.txt
